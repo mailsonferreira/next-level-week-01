@@ -71,7 +71,6 @@ document
         
         const itemId = itemLi.dataset.id
 
-     
 
         // verificar se existem itens selecionados, se sim 
         // pegar os itens selecionados
